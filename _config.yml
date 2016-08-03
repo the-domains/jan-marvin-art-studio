@@ -1,16 +1,16 @@
-typography_spectrum: 0.21582116419449449
+typography_spectrum: 0.6096572312526405
 color:
-  brandStrength: 0.4542540383990854
-  lightness: 0.9865981801413
-  saturation: 0.2980233763810247
-  rhythmicContrast: 0.561372846364975
+  brandStrength: 0.9998843704815954
+  lightness: 0.9667822017800063
+  saturation: 0.3476250469684601
+  rhythmicContrast: 0.6828202032484114
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.7778915192466229
+    - '#96CA2D'
+    - '#B5E655'
+    - '#EDF7F2'
+    - '#4BB5C1'
+    - '#7FC6BC'
+layout_spectrum: 0.060161908622831106
 name: Jan Marvin Art Studio
 title: Jan Marvin Art Studio
 description: The 'Art of Joy'
