@@ -12,5 +12,9 @@ color:
     - '#68058F'
 layout_spectrum: 0.9548147367313504
 name: Jan Marvin Art Studio
+navigation:
+  - name: Etsy Shop
+    url: 'https://www.etsy.com/shop/JanMarvinArtStudio?ref=hdr_shop_menu'
+    type: external
 title: Jan Marvin Art Studio
 description: The 'Art of Joy'
