@@ -19,5 +19,9 @@ navigation:
   - name: Etsy Shop
     url: 'https://www.etsy.com/shop/JanMarvinArtStudio?ref=hdr_shop_menu'
     type: external
+  - name: Amazon
+    url: >-
+      https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=jan+marvin+art+of+joy
+    type: external
 title: Jan Marvin Art Studio
 description: The 'Art of Joy'
