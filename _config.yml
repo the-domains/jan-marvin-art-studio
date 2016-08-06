@@ -23,5 +23,9 @@ navigation:
     url: >-
       https://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Daps&field-keywords=jan+marvin+art+of+joy
     type: external
+  - name: Metallic Gold on Totes
+    url: >-
+      https://testing.thegrid.io/app/site/live?siteID=0173c412-f8d6-4a25-bcae-dd4a2b90fbb5
+    type: external
 title: Jan Marvin Art Studio
 description: The 'Art of Joy'
